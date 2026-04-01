@@ -1,0 +1,458 @@
+{
+  "generated_at": "2026-03-31T09:02:05.739202+00:00",
+  "total_raw": 50,
+  "total_cleaned": 50,
+  "total_unique": 50,
+  "articles": [
+    {
+      "title": "Secure governance accelerates financial AI revenue growth",
+      "url": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/",
+      "summary": "Financial institutions are learning to deploy compliant AI solutions for greater revenue growth and market advantage. For the better part of ten years, financial institutions viewed AI primarily as a mechanism for pur...",
+      "publish_time": "2026-03-30T15:54:58+00:00",
+      "source": "Artificial Intelligence News",
+      "category": "news",
+      "title_hash": "d4fde03e2f9f829b41a5b36537c6b66729ba735d9113c99b300abc90458cd135"
+    },
+    {
+      "title": "Glia wins Excellence Award for safer AI in banking",
+      "url": "https://www.artificialintelligence-news.com/news/glia-wins-excellence-award-for-safer-ai-in-banking/",
+      "summary": "Glia, a customer service platform providing AI-powered interactions for the banking sector, has been named a winner in the Banking and Financial Services Category at the 2026 Artificial Intelligence Excellence Awards....",
+      "publish_time": "2026-03-30T14:12:59+00:00",
+      "source": "Artificial Intelligence News",
+      "category": "news",
+      "title_hash": "2261ff0e80d768e6a2a12f4cf0abeb7864e52c5600bb091c9c90d7cf0ac232d5"
+    },
+    {
+      "title": "How AEO vs GEO reshapes AI-driven brand discovery in 2026",
+      "url": "https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/",
+      "summary": "When Pew Research Centre analysed 68,879 Google searches in March 2025, one finding stood out: users who encountered an AI-generated summary clicked on a traditional result just 8% of the time. Those who didn’t see a...",
+      "publish_time": "2026-03-30T11:57:11+00:00",
+      "source": "Artificial Intelligence News",
+      "category": "news",
+      "title_hash": "b55d86c409c6430d210ace91242646aa6a5ba813bd9674c2c9f6e63cd60129c2"
+    },
+    {
+      "title": "Assessing AI powered price forecasting tools in currency markets",
+      "url": "https://www.artificialintelligence-news.com/news/assessing-ai-powered-price-forecasting-tools-in-currency-markets/",
+      "summary": "As artificial intelligence becomes a driving force in financial prediction, the reliability of its forecasting tools faces increasing scrutiny. Many traders question whether claims of high accuracy translate into cons...",
+      "publish_time": "2026-03-30T11:49:38+00:00",
+      "source": "Artificial Intelligence News",
+      "category": "news",
+      "title_hash": "7362d78d2c50e626c854c1dc6313fcb3fc281745a98b7a84d44d5bab56e9b26c"
+    },
+    {
+      "title": "Kong names Bruce Felt as chief financial officer",
+      "url": "https://www.artificialintelligence-news.com/news/kong-names-bruce-felt-as-chief-financial-officer/",
+      "summary": "A developer of API and AI connectivity technologies, Kong, has announced that Bruce Felt has joined it as CFO. Felt is a seasoned finance leader who brings experience guiding enterprise software companies through thei...",
+      "publish_time": "2026-03-30T11:02:00+00:00",
+      "source": "Artificial Intelligence News",
+      "category": "news",
+      "title_hash": "8e1c7925709efd4fbd9ad9156fc865de995d4f90a06ef3448972d80cc891a591"
+    },
+    {
+      "title": "Skip to main content",
+      "url": "https://www.theverge.com/#content",
+      "summary": "Skip to main content | 来源: The Verge AI",
+      "publish_time": "",
+      "source": "The Verge AI",
+      "category": "news",
+      "title_hash": "511fcdddb45c57ca0a8603d852ef8387852cf2da779b05fc9203d1f274cdacd7"
+    },
+    {
+      "title": "The homepage The Verge The Verge logo.",
+      "url": "https://www.theverge.com/",
+      "summary": "The homepage The Verge The Verge logo. | 来源: The Verge AI",
+      "publish_time": "",
+      "source": "The Verge AI",
+      "category": "news",
+      "title_hash": "302d470461df24c98ad5fac647ceb68a79ebf60150831ecc9c3d9deb6f48ecfb"
+    },
+    {
+      "title": "See all entertainment",
+      "url": "https://www.theverge.com/entertainment",
+      "summary": "See all entertainment | 来源: The Verge AI",
+      "publish_time": "",
+      "source": "The Verge AI",
+      "category": "news",
+      "title_hash": "349e7cb501081f17ad2136ed37565b0fad2c1a45cb342576dca5961348a2f491"
+    },
+    {
+      "title": "See all transportation",
+      "url": "https://www.theverge.com/transportation",
+      "summary": "See all transportation | 来源: The Verge AI",
+      "publish_time": "",
+      "source": "The Verge AI",
+      "category": "news",
+      "title_hash": "6dc964e2480faa8cff64970db7bb29c5515e3ffa19c9b20514c99dca1586a41b"
+    },
+    {
+      "title": "Verge Product Updates",
+      "url": "https://www.theverge.com/verge-product-updates",
+      "summary": "Verge Product Updates | 来源: The Verge AI",
+      "publish_time": "",
+      "source": "The Verge AI",
+      "category": "news",
+      "title_hash": "f67c4fd7c05967f25399254f72aca4f5e33d9eccb6adde0f9871e3336a5417c1"
+    },
+    {
+      "title": "Helping disaster response teams turn AI into action across Asia",
+      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+      "publish_time": "2026-03-29T22:15:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "title_hash": "3f499e0504fe743dfd9d41d4b8c010029a1d447898c12c928ce71bcd4de23675"
+    },
+    {
+      "title": "STADLER reshapes knowledge work at a 230-year-old company",
+      "url": "https://openai.com/index/stadler",
+      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "publish_time": "2026-03-27T22:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "title_hash": "c0077df8700f5836568ec8133566c28afe651dd90d6e1d0f8bbf272e832fea8f"
+    },
+    {
+      "title": "Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "publish_time": "2026-03-25T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "title_hash": "191f295fbe54592b9837c34eeaab4dbadead802592fe795fd7a45a110dc84a83"
+    },
+    {
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "publish_time": "2026-03-25T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "title_hash": "202786bb12f22d5aa66aa03c0d4bc93dc619e953f2b05cbd867e7c6dcef090ad"
+    },
+    {
+      "title": "Helping developers build safer AI experiences for teens",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+      "publish_time": "2026-03-24T11:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "title_hash": "9f4d0dc105c8c4dc6b70725b4f0c5613c5df0d54c2a350da2870cd7c84a526fa"
+    },
+    {
+      "title": "Identifying Interactions at Scale for LLMs",
+      "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/",
+      "summary": "--> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research aims to make the deci...",
+      "publish_time": "2026-03-13T09:00:00+00:00",
+      "source": "BAIR Blog",
+      "category": "research",
+      "title_hash": "7932213813092c6c93bf87ef562e6f5007ddddbf28c89dc28d0de420fbd70857"
+    },
+    {
+      "title": "Information-Driven Design of Imaging Systems",
+      "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/",
+      "summary": "An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how well measurements di...",
+      "publish_time": "2026-01-10T09:00:00+00:00",
+      "source": "BAIR Blog",
+      "category": "research",
+      "title_hash": "af9ba704938adb4a61a19f2f6277adfdbd8c5f2c87da2e6abc1cdf94865c3f04"
+    },
+    {
+      "title": "RL without TD learning",
+      "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/",
+      "summary": "In this post, I’ll introduce a reinforcement learning (RL) algorithm based on an “alternative” paradigm: divide and conquer . Unlike traditional methods, this algorithm is not based on temporal difference (TD) learnin...",
+      "publish_time": "2025-11-01T09:00:00+00:00",
+      "source": "BAIR Blog",
+      "category": "research",
+      "title_hash": "a57586892c90ae4e569ff8d9d571944df9fb4e1df3bc60d4d89e0ad7c1f1536b"
+    },
+    {
+      "title": "What exactly does word2vec learn?",
+      "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/",
+      "summary": "What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec is a well-known p...",
+      "publish_time": "2025-09-01T09:00:00+00:00",
+      "source": "BAIR Blog",
+      "category": "research",
+      "title_hash": "8bccf9ddac4407d7799b8cb4ea7678cc33152bd15b4ac45de1ab61a9127b18ee"
+    },
+    {
+      "title": "Whole-Body Conditioned Egocentric Video Prediction",
+      "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/",
+      "summary": ".modal { display: none; position: fixed; z-index: 9999; padding-top: 50px; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.9); } .modal-content { margin: auto; display: block...",
+      "publish_time": "2025-07-01T09:00:00+00:00",
+      "source": "BAIR Blog",
+      "category": "research",
+      "title_hash": "58a524e9827a4e351d38e71adfb03a022816c21bda5adcccf1c5f114ba646c1e"
+    },
+    {
+      "title": "MIT researchers use AI to uncover atomic defects in materials",
+      "url": "https://news.mit.edu/2026/mit-researchers-use-ai-uncover-atomic-defects-materials-0330",
+      "summary": "A new model measures defects that can be leveraged to improve materials’ mechanical strength, heat transfer, and energy-conversion efficiency.",
+      "publish_time": "2026-03-30T15:00:00+00:00",
+      "source": "MIT AI News",
+      "category": "research",
+      "title_hash": "9c3cd962f0502f86b3918a0d34cc4d3ee639906e5783284704c0103036b7f5b5"
+    },
+    {
+      "title": "Seeing sounds",
+      "url": "https://news.mit.edu/2026/seeing-sounds-mariano-salcedo-0326",
+      "summary": "Mariano Salcedo ’25, a master’s student in the new Music Technology and Computation Graduate Program, is designing an AI to visualize and express music and other sounds.",
+      "publish_time": "2026-03-26T20:45:00+00:00",
+      "source": "MIT AI News",
+      "category": "research",
+      "title_hash": "b874ee2c722afd91cd522459546029211671b500d149941d9a5685444714c626"
+    },
+    {
+      "title": "MIT engineers design proteins by their motion, not just their shape",
+      "url": "https://news.mit.edu/2026/mit-engineers-design-proteins-by-motion-not-just-shape-0326",
+      "summary": "An AI model generates novel proteins based on how they vibrate and move, opening new possibilities for dynamic biomaterials and adaptive therapeutics.",
+      "publish_time": "2026-03-26T20:20:00+00:00",
+      "source": "MIT AI News",
+      "category": "research",
+      "title_hash": "dc93619eeff93d71a70ff56a34f323d47105b618573db7c3320b70113cfafb54"
+    },
+    {
+      "title": "AI system learns to keep warehouse robot traffic running smoothly",
+      "url": "https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326",
+      "summary": "This new approach adapts to decide which robots should get the right of way at every moment, avoiding congestion and increasing throughput.",
+      "publish_time": "2026-03-26T04:00:00+00:00",
+      "source": "MIT AI News",
+      "category": "research",
+      "title_hash": "6ea018a4d177932104efe6cf9b9b324c7ff28d5ddd118e6607fa496b223d4f06"
+    },
+    {
+      "title": "Augmenting citizen science with computer vision for fish monitoring",
+      "url": "https://news.mit.edu/2026/augmenting-citizen-science-computer-vision-fish-monitoring-0325",
+      "summary": "MIT Sea Grant works with the Woodwell Climate Research Center and other collaborators to demonstrate a deep learning-based system for fish monitoring.",
+      "publish_time": "2026-03-25T21:00:00+00:00",
+      "source": "MIT AI News",
+      "category": "research",
+      "title_hash": "60cd53e2553fd38afc1389e7f7a9497d06d869e5af89d6b5487fa050693bbc56"
+    },
+    {
+      "title": "Liberate your OpenClaw",
+      "url": "https://huggingface.co/blog/liberate-your-openclaw",
+      "summary": "Liberate your OpenClaw | 来源: Hugging Face Blog",
+      "publish_time": "2026-03-27T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "technical",
+      "title_hash": "57b25959587529ca917145e5e4604182dace5d295359d31f829b865e5d859fab"
+    },
+    {
+      "title": "A New Framework for Evaluating Voice Agents (EVA)",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+      "summary": "A New Framework for Evaluating Voice Agents (EVA) | 来源: Hugging Face Blog",
+      "publish_time": "2026-03-24T02:01:52+00:00",
+      "source": "Hugging Face Blog",
+      "category": "technical",
+      "title_hash": "b2c7a50df1637bbb16a879ac30c9e54c6969ac536c3076659ba14978c7440b17"
+    },
+    {
+      "title": "Build a Domain-Specific Embedding Model in Under a Day",
+      "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+      "summary": "Build a Domain-Specific Embedding Model in Under a Day | 来源: Hugging Face Blog",
+      "publish_time": "2026-03-20T19:38:16+00:00",
+      "source": "Hugging Face Blog",
+      "category": "technical",
+      "title_hash": "d1ffce7f13b52d936c8816e39116140f8578b595fe36279faccaafc53b7e958a"
+    },
+    {
+      "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
+      "summary": "What's New in Mellea 0.4.0 + Granite Libraries Release | 来源: Hugging Face Blog",
+      "publish_time": "2026-03-20T14:14:46+00:00",
+      "source": "Hugging Face Blog",
+      "category": "technical",
+      "title_hash": "a05945af2d6e98d7da4a4d99ced949da1410fe03dc47224fbc2bb691577ead58"
+    },
+    {
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "summary": "State of Open Source on Hugging Face: Spring 2026 | 来源: Hugging Face Blog",
+      "publish_time": "2026-03-17T16:37:55+00:00",
+      "source": "Hugging Face Blog",
+      "category": "technical",
+      "title_hash": "58f69ab5ce253d059f016f965c855e84331279ecba3f86bdc7280b8291b80528"
+    },
+    {
+      "title": "5 Useful Python Scripts for Effective Feature Selection",
+      "url": "https://www.kdnuggets.com/5-useful-python-scripts-for-effective-feature-selection",
+      "summary": "Learn five simple Python scripts to perform effective feature selection. Each one is practical, minimal, and easy to use in real projects.",
+      "publish_time": "2026-03-30T12:00:19+00:00",
+      "source": "KDnuggets",
+      "category": "technical",
+      "title_hash": "e8ad47047fbb70d6b897bb7ab8d80757e9b005e9a23f118892a54f37ded26043"
+    },
+    {
+      "title": "7 Free Web APIs Every Developer and Vibe Coder Should Know",
+      "url": "https://www.kdnuggets.com/7-free-web-apis-every-developer-and-vibe-coder-should-know",
+      "summary": "Learn which tools help AI agents search, scrape, crawl, map websites, answer questions, and research the web faster.",
+      "publish_time": "2026-03-27T12:00:22+00:00",
+      "source": "KDnuggets",
+      "category": "technical",
+      "title_hash": "0329dacd1b223ed3f2f7e69a2e7aa392407ba78703625b7fd02ad3067cfe57f8"
+    },
+    {
+      "title": "Getting Started with Smolagents: Build Your First Code Agent in 15 Minutes",
+      "url": "https://www.kdnuggets.com/getting-started-with-smolagents-build-your-first-code-agent-in-15-minutes",
+      "summary": "Build an AI weather agent in 40 lines of Python using Hugging Face's smolagents library. Learn to create tools, connect LLMs, and run autonomous tasks.",
+      "publish_time": "2026-03-26T16:00:25+00:00",
+      "source": "KDnuggets",
+      "category": "technical",
+      "title_hash": "89a4c53daced7fbd432e418353d74eb0c18585e4c89966e8761540f1ec259460"
+    },
+    {
+      "title": "10 GitHub Repositories to Master OpenClaw",
+      "url": "https://www.kdnuggets.com/10-github-repositories-to-master-openclaw",
+      "summary": "Learn OpenClaw by exploring key GitHub repositories covering agents, skills, automation, memory systems, and deployment tools.",
+      "publish_time": "2026-03-26T14:00:32+00:00",
+      "source": "KDnuggets",
+      "category": "technical",
+      "title_hash": "5bfaef2d8e8b5d9a18d18c2d0d12d3af0da7ce6cd13c3c5db208827e979617ae"
+    },
+    {
+      "title": "Vibe Coding a Private AI Financial Analyst with Python and Local LLMs",
+      "url": "https://www.kdnuggets.com/vibe-coding-a-private-ai-financial-analyst-with-python-and-local-llms",
+      "summary": "Learn to build an AI data analyst with Python: analyzes data, detects anomalies, and generates predictions using local LLMs.",
+      "publish_time": "2026-03-25T16:11:39+00:00",
+      "source": "KDnuggets",
+      "category": "technical",
+      "title_hash": "95b349b36493852f579a1ac769369873b65b2ad3fa9ec9f8616ef642dc6b7769"
+    },
+    {
+      "title": "Alibaba Qwen Team Releases Qwen3.5 Omni: A Native Multimodal Model for Text, Audio, Video, and Realtime Interaction",
+      "url": "https://www.marktechpost.com/2026/03/30/alibaba-qwen-team-releases-qwen3-5-omni-a-native-multimodal-model-for-text-audio-video-and-realtime-interaction/",
+      "summary": "The landscape of multimodal large language models (MLLMs) has shifted from experimental ‘wrappers’—where separate vision or audio encoders are stitched onto a text-based backbone—to native, end-to-end ‘omnimodal’ arch...",
+      "publish_time": "2026-03-31T05:17:07+00:00",
+      "source": "MarkTechPost",
+      "category": "technical",
+      "title_hash": "2643dd7fe706fec59a728d5c1617da778af369ddf19fb3cfb7ee0d495359caf9"
+    },
+    {
+      "title": "Microsoft AI Releases Harrier-OSS-v1: A New Family of Multilingual Embedding Models Hitting SOTA on Multilingual MTEB v2",
+      "url": "https://www.marktechpost.com/2026/03/30/microsoft-ai-releases-harrier-oss-v1-a-new-family-of-multilingual-embedding-models-hitting-sota-on-multilingual-mteb-v2/",
+      "summary": "Microsoft has announced the release of Harrier-OSS-v1, a family of three multilingual text embedding models designed to provide high-quality semantic representations across a wide range of languages. The release inclu...",
+      "publish_time": "2026-03-30T22:22:49+00:00",
+      "source": "MarkTechPost",
+      "category": "technical",
+      "title_hash": "7393b3cbd8bcf8d0ef89b0473c0c3ae6381e618e6cdca9ce93fe4fbcf09c451c"
+    },
+    {
+      "title": "Salesforce AI Research Releases VoiceAgentRAG: A Dual-Agent Memory Router that Cuts Voice RAG Retrieval Latency by 316x",
+      "url": "https://www.marktechpost.com/2026/03/30/salesforce-ai-research-releases-voiceagentrag-a-dual-agent-memory-router-that-cuts-voice-rag-retrieval-latency-by-316x/",
+      "summary": "In the world of voice AI, the difference between a helpful assistant and an awkward interaction is measured in milliseconds. While text-based Retrieval-Augmented Generation (RAG) systems can afford a few seconds of ‘t...",
+      "publish_time": "2026-03-30T09:56:14+00:00",
+      "source": "MarkTechPost",
+      "category": "technical",
+      "title_hash": "af5a120c6d3d88595db3469572f9d3c4f006ad51864acdb2ef8000206bac8428"
+    },
+    {
+      "title": "Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser, Shell, Shared Filesystem, and MCP",
+      "url": "https://www.marktechpost.com/2026/03/29/agent-infra-releases-aio-sandbox-an-all-in-one-runtime-for-ai-agents-with-browser-shell-shared-filesystem-and-mcp/",
+      "summary": "In the development of autonomous agents, the technical bottleneck is shifting from model reasoning to the execution environment. While Large Language Models (LLMs) can generate code and multi-step plans, providing a f...",
+      "publish_time": "2026-03-30T00:04:53+00:00",
+      "source": "MarkTechPost",
+      "category": "technical",
+      "title_hash": "955b853c2ae948d4dad39ec2d569a27b2350a6b85912e88c9394f9b80354ea03"
+    },
+    {
+      "title": "How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows",
+      "url": "https://www.marktechpost.com/2026/03/29/how-to-build-advanced-cybersecurity-ai-agents-with-cai-using-tools-guardrails-handoffs-and-multi-agent-workflows/",
+      "summary": "In this tutorial, we build and explore the CAI Cybersecurity AI Framework step by step in Colab using an OpenAI-compatible model. We begin by setting up the environment, securely loading the API key, and creating a ba...",
+      "publish_time": "2026-03-29T23:28:57+00:00",
+      "source": "MarkTechPost",
+      "category": "technical",
+      "title_hash": "2c8f798fbda40872f4dc8eef57d9b8c83c7a6f6eac9e85fe18f464c583cb6793"
+    },
+    {
+      "title": "Bitboard version of Tetris AI",
+      "url": "https://arxiv.org/abs/2603.26765",
+      "summary": "arXiv:2603.26765v1 Announce Type: new Abstract: The efficiency of game engines and policy optimization algorithms is crucial for training reinforcement learning (RL) agents in complex sequential decision-making tasks,...",
+      "publish_time": "2026-03-31T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "title_hash": "c6a21de6e7e946adffcc710f0eba6530469db993d47de0bec0ec69fd995a5de2"
+    },
+    {
+      "title": "Multiverse: Language-Conditioned Multi-Game Level Blending via Shared Representation",
+      "url": "https://arxiv.org/abs/2603.26782",
+      "summary": "arXiv:2603.26782v1 Announce Type: new Abstract: Text-to-level generation aims to translate natural language descriptions into structured game levels, enabling intuitive control over procedural content generation. Whil...",
+      "publish_time": "2026-03-31T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "title_hash": "e3ddd1d475b80bb43de1f0be27324370a519b8b82ae3c12b4bf9ca3a4de39937"
+    },
+    {
+      "title": "Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI",
+      "url": "https://arxiv.org/abs/2603.26838",
+      "summary": "arXiv:2603.26838v1 Announce Type: new Abstract: This paper surveys uncertainty-aware explainable artificial intelligence (UAXAI), examining how uncertainty is incorporated into explanatory pipelines and how such metho...",
+      "publish_time": "2026-03-31T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "title_hash": "ddb81eb46c6fc9851fde3cfb8069e45f37a72983c72405ec61b6b18d35c85a49"
+    },
+    {
+      "title": "Neuro-Symbolic Learning for Predictive Process Monitoring via Two-Stage Logic Tensor Networks with Rule Pruning",
+      "url": "https://arxiv.org/abs/2603.26944",
+      "summary": "arXiv:2603.26944v1 Announce Type: new Abstract: Predictive modeling on sequential event data is critical for fraud detection and healthcare monitoring. Existing data-driven approaches learn correlations from historica...",
+      "publish_time": "2026-03-31T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "title_hash": "85ba1a1cec42e7fae61f226e7b5164df7d42be7f109d47377741220668725940"
+    },
+    {
+      "title": "Compliance-Aware Predictive Process Monitoring: A Neuro-Symbolic Approach",
+      "url": "https://arxiv.org/abs/2603.26948",
+      "summary": "arXiv:2603.26948v1 Announce Type: new Abstract: Existing approaches for predictive process monitoring are sub-symbolic, meaning that they learn correlations between descriptive features and a target feature fully base...",
+      "publish_time": "2026-03-31T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "title_hash": "3692f58a207e0ffe8e1cf3051c8dcf5e38936a2a04ad659e136fff9e641e37f3"
+    },
+    {
+      "title": "VibeVoice Technical Report",
+      "url": "https://paperswithcode.com/papers/2508.19205",
+      "summary": "VibeVoice Technical Report | 来源: Papers with Code",
+      "publish_time": "",
+      "source": "Papers with Code",
+      "category": "papers",
+      "title_hash": "9cb3da66ead2639341f6fff10ea0d291121fceab292e9cb0ae61b19b76eeff17"
+    },
+    {
+      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "url": "https://paperswithcode.com/papers/2412.20138",
+      "summary": "TradingAgents: Multi-Agents LLM Financial Trading Framework | 来源: Papers with Code",
+      "publish_time": "",
+      "source": "Papers with Code",
+      "category": "papers",
+      "title_hash": "5c50e38e46846cd67a2ec4a65e1a381eeda92788930f883ef478e46c1fefc489"
+    },
+    {
+      "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications",
+      "url": "https://paperswithcode.com/papers/2508.16279",
+      "summary": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications | 来源: Papers with Code",
+      "publish_time": "",
+      "source": "Papers with Code",
+      "category": "papers",
+      "title_hash": "67f9db84cf77420a4ccc04c0d7dfd6292e50dffd2ff4d1174711875f6657e286"
+    },
+    {
+      "title": "Very Large-Scale Multi-Agent Simulation in AgentScope",
+      "url": "https://paperswithcode.com/papers/2407.17789",
+      "summary": "Very Large-Scale Multi-Agent Simulation in AgentScope | 来源: Papers with Code",
+      "publish_time": "",
+      "source": "Papers with Code",
+      "category": "papers",
+      "title_hash": "a599accf39663513bbea65790ee2772c1d9902abf3dd320eae24524483ab7c3f"
+    },
+    {
+      "title": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "url": "https://paperswithcode.com/papers/2504.08066",
+      "summary": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search | 来源: Papers with Code",
+      "publish_time": "",
+      "source": "Papers with Code",
+      "category": "papers",
+      "title_hash": "a178eda9661753463b539ac915c8788f101005199543a48e36f2cb7748586a46"
+    }
+  ]
+}
