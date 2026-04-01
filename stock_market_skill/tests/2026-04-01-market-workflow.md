@@ -26,7 +26,44 @@
 
 ### 推荐列表
 
-- 今日未筛出满足当前阈值的推荐标的。
+#### 1. 东方电气（600875）
+
+- 行业：其他电源设备Ⅱ
+- 最新价：38.36
+- 涨跌幅：+9.44%
+- 换手率：3.05%
+- 主力净流入：5.36亿
+- PE(TTM)：34.63
+- 市值：1326.63亿
+- 综合分：7.50
+- 推荐理由：市值基础较好, 估值相对可控, 资金面偏正, 换手结构健康
+- 入手时机：更适合等回踩或横盘消化后分批介入，不建议追高。
+
+#### 2. 招商轮船（601872）
+
+- 行业：航运港口
+- 最新价：18.00
+- 涨跌幅：+10.02%
+- 换手率：1.60%
+- 主力净流入：5.15亿
+- PE(TTM)：24.17
+- 市值：1453.42亿
+- 综合分：7.50
+- 推荐理由：市值基础较好, 估值相对可控, 资金面偏正, 换手结构健康
+- 入手时机：更适合等回踩或横盘消化后分批介入，不建议追高。
+
+#### 3. 奥瑞德（600666）
+
+- 行业：光学光电子
+- 最新价：6.27
+- 涨跌幅：+10.00%
+- 换手率：9.48%
+- 主力净流入：4.50亿
+- PE(TTM)：44.49
+- 市值：172.52亿
+- 综合分：4.00
+- 推荐理由：估值相对可控, 资金面偏正
+- 入手时机：更适合等回踩或横盘消化后分批介入，不建议追高。
 
 ## A股短线推荐
 
@@ -46,7 +83,44 @@
 
 ### 推荐列表
 
-- 今日未筛出满足当前阈值的推荐标的。
+#### 1. 锦江航运（601083）
+
+- 行业：航运港口
+- 最新价：12.93
+- 涨跌幅：+10.04%
+- 换手率：8.30%
+- 主力净流入：0.52亿
+- PE(TTM)：11.15
+- 市值：167.33亿
+- 综合分：6.51
+- 推荐理由：动量较强, 换手活跃, 资金助推, 尚未极端过热
+- 入手时机：适合只在强势分时回踩不破均线时轻仓跟随，失速就不追。
+
+#### 2. 中京电子（002579）
+
+- 行业：元件
+- 最新价：12.29
+- 涨跌幅：+10.03%
+- 换手率：6.24%
+- 主力净流入：1.73亿
+- PE(TTM)：220.48
+- 市值：75.29亿
+- 综合分：6.09
+- 推荐理由：动量较强, 换手活跃, 资金助推, 尚未极端过热
+- 入手时机：适合只在强势分时回踩不破均线时轻仓跟随，失速就不追。
+
+#### 3. 铭普光磁（002902）
+
+- 行业：通信设备
+- 最新价：28.78
+- 涨跌幅：+10.02%
+- 换手率：7.80%
+- 主力净流入：2.09亿
+- PE(TTM)：-33.91
+- 市值：67.64亿
+- 综合分：6.40
+- 推荐理由：动量较强, 换手活跃, 资金助推, 尚未极端过热
+- 入手时机：适合只在强势分时回踩不破均线时轻仓跟随，失速就不追。
 
 ## 港股长线推荐
 
@@ -59,48 +133,48 @@
 
 ### 相关新闻
 
-- Sysco shares fall premarket as company announces $29B acquisition of Jetro Restaurant Depot
-- Strong Demand Lifted Taiwan Semiconductor Manufacturing Company Limited (TSM) Higher in Q4
-- Strategy Appears To Have Paused Its Bitcoin Purchases
-- FBI shuts down 3 India-based call centers posing as Social Security, tied to $50M stolen from Americans. How they worked
+- Bessent says nearly half of US tax filers claim new deductions in Republican tax law
+- What Makes Interactive Brokers (IBKR) an Attractive Investment Bet?
+- Here's What to Expect From Lennox International's Next Earnings Report
+- US Department of Labor issues 401k guidelines on private assets
 
 ### 推荐列表
 
-#### 1. 美的集团（00300.HK）
+#### 1. 紫金矿业（02899.HK）
 
-- 行业：家庭电器及用品
-- 最新价：83.80
-- 涨跌幅：+6.82%
-- 换手率：1.78%
-- 主力净流入：0.77亿
-- PE(TTM)：13.10
-- 市值：6371.55亿
+- 行业：黄金及贵金属
+- 最新价：36.50
+- 涨跌幅：+6.23%
+- 换手率：0.28%
+- 主力净流入：0.34亿
+- PE(TTM)：16.93
+- 市值：9705.58亿
 - 综合分：6.00
 - 推荐理由：港股龙头属性更强, 估值相对可控, 资金面偏正
 - 入手时机：更适合等回踩或横盘消化后分批介入，不建议追高。
 
-#### 2. 翰森制药（03692.HK）
+#### 2. 洛阳钼业（03993.HK）
 
-- 行业：药品及生物科技
-- 最新价：35.48
-- 涨跌幅：+7.26%
-- 换手率：0.31%
-- 主力净流入：0.11亿
-- PE(TTM)：34.93
-- 市值：2148.37亿
-- 综合分：6.00
-- 推荐理由：港股龙头属性更强, 估值相对可控, 资金面偏正
+- 行业：一般金属及矿石
+- 最新价：17.14
+- 涨跌幅：+6.46%
+- 换手率：0.35%
+- 主力净流入：-0.06亿
+- PE(TTM)：16.28
+- 市值：3666.98亿
+- 综合分：4.00
+- 推荐理由：港股龙头属性更强, 估值相对可控
 - 入手时机：更适合等回踩或横盘消化后分批介入，不建议追高。
 
-#### 3. 华润万象生活（01209.HK）
+#### 3. 潍柴动力（02338.HK）
 
-- 行业：地产
-- 最新价：47.04
-- 涨跌幅：+6.52%
-- 换手率：0.31%
-- 主力净流入：0.17亿
-- PE(TTM)：24.43
-- 市值：1073.69亿
+- 行业：工业工程
+- 最新价：28.82
+- 涨跌幅：+5.49%
+- 换手率：0.11%
+- 主力净流入：0.05亿
+- PE(TTM)：20.75
+- 市值：2510.91亿
 - 综合分：6.00
 - 推荐理由：港股龙头属性更强, 估值相对可控, 资金面偏正
 - 入手时机：更适合等回踩或横盘消化后分批介入，不建议追高。
@@ -116,51 +190,14 @@
 
 ### 相关新闻
 
-- Strategy Appears To Have Paused Its Bitcoin Purchases
-- Namibia Critical Metals amends Lofdal JV with JOGMEC, adds funding for feasibility study
-- Strong Demand Lifted Taiwan Semiconductor Manufacturing Company Limited (TSM) Higher in Q4
-- Will Ares Capital Cut Its Dividend? ARCC Stock's Tumble Implies This. But Not So Fast
+- Netflix initiated, Instacart upgraded: Wall Street's top analyst calls
+- Carrier Global (CARR) Slid on Lowering Guidance
+- Microsoft (MSFT) Beyond the OpenAI Hype – Should You Still Buy The Stock For Long-Term Growth?
+- What to Expect From Masco's Next Quarterly Earnings Report
 
 ### 推荐列表
 
-#### 1. 傅里叶（03625.HK）
-
-- 行业：半导体
-- 最新价：80.00
-- 涨跌幅：+100.00%
-- 换手率：4.41%
-- 主力净流入：0.00亿
-- PE(TTM)：-136.78
-- 市值：89.60亿
-- 综合分：4.88
-- 推荐理由：动量较强, 换手活跃
-- 入手时机：适合只在强势分时回踩不破均线时轻仓跟随，失速就不追。
-
-#### 2. CMON（01792.HK）
-
-- 行业：家庭电器及用品
-- 最新价：1.43
-- 涨跌幅：+38.83%
-- 换手率：10.46%
-- 主力净流入：-0.06亿
-- PE(TTM)：-0.57
-- 市值：0.89亿
-- 综合分：6.09
-- 推荐理由：动量较强, 换手活跃
-- 入手时机：适合只在强势分时回踩不破均线时轻仓跟随，失速就不追。
-
-#### 3. 荣尊国际控股（01780.HK）
-
-- 行业：建筑
-- 最新价：0.93
-- 涨跌幅：+22.37%
-- 换手率：3.08%
-- 主力净流入：0.00亿
-- PE(TTM)：-61.71
-- 市值：5.77亿
-- 综合分：4.62
-- 推荐理由：动量较强, 换手活跃
-- 入手时机：适合只在强势分时回踩不破均线时轻仓跟随，失速就不追。
+- 今日未筛出满足当前阈值的推荐标的。
 
 ## 美股长线推荐
 
@@ -173,10 +210,10 @@
 
 ### 相关新闻
 
+- ETF Prime: Defense ETFs Draw Billions Amid Global Tensions
+- SPARC AI Hires Senergy Communication Capital
 - Nike CEO says its comeback plan is taking longer than expected, sending shares tumbling more than 8%
-- Meta Deploys AI to Accelerate and Enhance Risk Review During Product Development
-- Apple's 50-year journey from garage to tech titan
-- Ironman Provides Update on 2025 Annual Filings
+- Front-month Brent oil futures extend gains after record monthly rise in March
 
 ### 推荐列表
 
@@ -193,7 +230,10 @@
 
 ### 相关新闻
 
-- 今日未成功拉取该市场新闻。
+- ETF Prime: Defense ETFs Draw Billions Amid Global Tensions
+- SPARC AI Hires Senergy Communication Capital
+- Nike CEO says its comeback plan is taking longer than expected, sending shares tumbling more than 8%
+- Front-month Brent oil futures extend gains after record monthly rise in March
 
 ### 推荐列表
 
@@ -202,11 +242,11 @@
 - 行业：-
 - 最新价：8.15
 - 涨跌幅：+1290.93%
-- 换手率：0.19%
+- 换手率：0.00%
 - 主力净流入：0.00亿
 - PE(TTM)：0.00
-- 市值：3.54亿
-- 综合分：4.04
+- 市值：0.00亿
+- 综合分：4.00
 - 推荐理由：动量较强, 换手活跃
 - 入手时机：适合只在强势分时回踩不破均线时轻仓跟随，失速就不追。
 
