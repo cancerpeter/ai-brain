@@ -1,0 +1,65 @@
+{
+  "report_date": "2026-04-02",
+  "generated_at": "2026-04-02T09:42:45+08:00",
+  "report_type": "ai_daily_report",
+  "workflow": {
+    "name": "ai_news_agent",
+    "status": "completed",
+    "notes": [
+      "在项目路径运行 ai_news_agent 主工作流。",
+      "本次抓取恢复正常，11 个来源共抓取 66 条文章。",
+      "Hugging Face Blog 首次请求出现 SSL EOF，重试后成功，不计入最终失败来源。"
+    ],
+    "machine_outputs": {
+      "json": "/Users/peter.chen/Documents/知识库搭建/ai_news_agent/data/ai_news_20260402_094245.json",
+      "markdown": "/Users/peter.chen/Documents/知识库搭建/reports/ai-daily/2026-04-02-ai-news-agent-daily.md"
+    }
+  },
+  "failed_sources": [],
+  "counts": {
+    "total_raw": 66,
+    "total_cleaned": 66,
+    "total_unique": 66,
+    "source_count": 11
+  },
+  "key_trends": [
+    {
+      "name": "AI 智能体与执行系统",
+      "signal_count": 23,
+      "summary": "今天密度最高的主题仍然是 agent，从企业流程到物理机器人都在扩展执行边界。"
+    },
+    {
+      "name": "开发者工具与开源生态",
+      "signal_count": 14,
+      "summary": "OpenAI、Hugging Face 等来源共同表明模型能力正在和工具链、规范、开源组件绑定。"
+    },
+    {
+      "name": "多模态内容生成",
+      "signal_count": 8,
+      "summary": "语音、图像与视频继续走向更自然的人机交互与内容生产。"
+    }
+  ],
+  "top_articles": [
+    {
+      "source": "Artificial Intelligence News",
+      "title": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
+      "url": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Baidu’s robotaxis froze in traffic, creating chaos",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Holo3: Breaking the Computer Use Frontier",
+      "url": "https://huggingface.co/blog/Hcompany/holo3"
+    }
+  ],
+  "report_markdown": "/Users/peter.chen/Documents/知识库搭建/reports/ai-daily/2026-04-02-ai-daily.md"
+}

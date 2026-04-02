@@ -1,0 +1,602 @@
+{
+  "generated_at": "2026-04-02T01:42:45.541222+00:00",
+  "total_raw": 66,
+  "total_cleaned": 66,
+  "total_unique": 66,
+  "articles": [
+    {
+      "title": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
+      "url": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/",
+      "summary": "Global AI investment is accelerating, yet KPMG data shows the gap between enterprise AI spend and measurable business value is widening fast. The headline figure from KPMG’s first quarterly Global AI Pulse survey is b...",
+      "publish_time": "2026-04-01T15:24:01+00:00",
+      "source": "Artificial Intelligence News",
+      "category": "news",
+      "title_hash": "3ea28e52fe6bd8d516921b3d1def4ce58633ccc39ddaac7b74de8fa600d0ca45"
+    },
+    {
+      "title": "DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI",
+      "url": "https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/",
+      "summary": "AI is everywhere in the enterprise. The translation workflow often is not. That is the core finding of DeepL’s 2026 Language AI report, “Borderless Business: Transforming Translation in the Age of AI,” published on Ma...",
+      "publish_time": "2026-04-01T12:00:00+00:00",
+      "source": "Artificial Intelligence News",
+      "category": "news",
+      "title_hash": "3aee669bfa6cbb2d2398c74bae304660a41658be78bd781081c1c1333c9871d8"
+    },
+    {
+      "title": "Hershey applies AI across its supply chain operations",
+      "url": "https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/",
+      "summary": "Artificial intelligence is moving beyond software and further into the physical side of business. Companies in food production and logistics are starting to use data systems to support day-to-day decisions, not long-t...",
+      "publish_time": "2026-04-01T10:00:00+00:00",
+      "source": "Artificial Intelligence News",
+      "category": "news",
+      "title_hash": "698d17db343c62f6dcc5a533d64b1508b0d44dfede123504e661e47949133ef0"
+    },
+    {
+      "title": "SAP and ANYbotics drive industrial adoption of physical AI",
+      "url": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/",
+      "summary": "Heavy industry relies on people to inspect hazardous, dirty facilities. It’s expensive, and putting humans in these zones carries obvious safety risks. Swiss robot maker ANYbotics and software company SAP are trying t...",
+      "publish_time": "2026-03-31T15:20:53+00:00",
+      "source": "Artificial Intelligence News",
+      "category": "news",
+      "title_hash": "a3463daf1297d2796debe73459c17a713a5875e262b58e396e7ef8fe85e60043"
+    },
+    {
+      "title": "Secure governance accelerates financial AI revenue growth",
+      "url": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/",
+      "summary": "Financial institutions are learning to deploy compliant AI solutions for greater revenue growth and market advantage. For the better part of ten years, financial institutions viewed AI primarily as a mechanism for pur...",
+      "publish_time": "2026-03-30T15:54:58+00:00",
+      "source": "Artificial Intelligence News",
+      "category": "news",
+      "title_hash": "d4fde03e2f9f829b41a5b36537c6b66729ba735d9113c99b300abc90458cd135"
+    },
+    {
+      "title": "Glia wins Excellence Award for safer AI in banking",
+      "url": "https://www.artificialintelligence-news.com/news/glia-wins-excellence-award-for-safer-ai-in-banking/",
+      "summary": "Glia, a customer service platform providing AI-powered interactions for the banking sector, has been named a winner in the Banking and Financial Services Category at the 2026 Artificial Intelligence Excellence Awards....",
+      "publish_time": "2026-03-30T14:12:59+00:00",
+      "source": "Artificial Intelligence News",
+      "category": "news",
+      "title_hash": "2261ff0e80d768e6a2a12f4cf0abeb7864e52c5600bb091c9c90d7cf0ac232d5"
+    },
+    {
+      "title": "AI can push your Stream Deck buttons for you",
+      "url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+      "summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today intro...",
+      "publish_time": "2026-04-01T12:38:58+00:00",
+      "source": "The Verge AI",
+      "category": "news",
+      "title_hash": "b032bf40c2606644ec6af1cf6d9645adfa53b567ea8539cadbb17d8325c40c60"
+    },
+    {
+      "title": "Baidu’s robotaxis froze in traffic, creating chaos",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+      "summary": "Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic. Police...",
+      "publish_time": "2026-04-01T10:39:52+00:00",
+      "source": "The Verge AI",
+      "category": "news",
+      "title_hash": "cdbe8b6b36b339d453cfb1b027506cd4e71e19632de7f144dea78d47871dd7de"
+    },
+    {
+      "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+      "summary": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak...",
+      "publish_time": "2026-03-31T22:24:19+00:00",
+      "source": "The Verge AI",
+      "category": "news",
+      "title_hash": "976112f73044e611acfb81a2346bf55545bcf58b0bc8172dc482f7b40ac30f88"
+    },
+    {
+      "title": "You can now use ChatGPT with Apple’s CarPlay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+      "summary": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support for \"voice-based...",
+      "publish_time": "2026-03-31T21:03:18+00:00",
+      "source": "The Verge AI",
+      "category": "news",
+      "title_hash": "a85e3e19143602d52d77fb39783d89e61fb7edb4de4be1652bba573ea8d834c4"
+    },
+    {
+      "title": "The Galaxy S26’s photo app can sloppify your memories",
+      "url": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
+      "summary": "The Google Pixel 9 walked so that the Samsung Galaxy S26 could run. Google introduced AI editing tools to Photos slowly. It started with changes to the background - make the sky more blue, or remove crowds of tourists...",
+      "publish_time": "2026-03-31T18:15:00+00:00",
+      "source": "The Verge AI",
+      "category": "news",
+      "title_hash": "6277f0be8e1748777cd8cce3b06f2c035bacbd458623452fb772dd3bb031380f"
+    },
+    {
+      "title": "Art schools are being torn apart by AI",
+      "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
+      "summary": "When my baby brother, a 3D modelling and animation student, talks to me about his projects and studies, the pride I usually feel is becoming increasingly tainted by a growing sense of dread. As a creative professional...",
+      "publish_time": "2026-03-31T15:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "news",
+      "title_hash": "7b6b13ea69ea9e3dbf5c52055c326c167c85ace8c67bc1bb63d9ea51abb1b228"
+    },
+    {
+      "title": "Gradient Labs gives every bank customer an AI account manager",
+      "url": "https://openai.com/index/gradient-labs",
+      "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
+      "publish_time": "2026-04-01T02:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "title_hash": "f8e0b168565e83f2d98c4671a75582cd56ca8a4e2bbda21c3a3c076c93c52f84"
+    },
+    {
+      "title": "Accelerating the next phase of AI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "publish_time": "2026-03-31T13:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "title_hash": "32b9fa19292518720bbb70fc787a710dade05f02e52b226194593c5277f5e9f5"
+    },
+    {
+      "title": "Helping disaster response teams turn AI into action across Asia",
+      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+      "publish_time": "2026-03-29T22:15:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "title_hash": "3f499e0504fe743dfd9d41d4b8c010029a1d447898c12c928ce71bcd4de23675"
+    },
+    {
+      "title": "STADLER reshapes knowledge work at a 230-year-old company",
+      "url": "https://openai.com/index/stadler",
+      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "publish_time": "2026-03-27T22:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "title_hash": "c0077df8700f5836568ec8133566c28afe651dd90d6e1d0f8bbf272e832fea8f"
+    },
+    {
+      "title": "Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "publish_time": "2026-03-25T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "title_hash": "191f295fbe54592b9837c34eeaab4dbadead802592fe795fd7a45a110dc84a83"
+    },
+    {
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "publish_time": "2026-03-25T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "title_hash": "202786bb12f22d5aa66aa03c0d4bc93dc619e953f2b05cbd867e7c6dcef090ad"
+    },
+    {
+      "title": "Sima 2 An Agent That Plays Reasons And Learns With You In Virtual 3D Worlds",
+      "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+      "summary": "Sima 2 An Agent That Plays Reasons And Learns With You In Virtual 3D Worlds | 来源: Google DeepMind Blog",
+      "publish_time": "",
+      "source": "Google DeepMind Blog",
+      "category": "research",
+      "title_hash": "3f6a31e692fa031614da90cde1d2a3920f1db34182eee0068aa5906327377db9"
+    },
+    {
+      "title": "Alphagenome Ai For Better Understanding The Genome",
+      "url": "https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome/",
+      "summary": "Alphagenome Ai For Better Understanding The Genome | 来源: Google DeepMind Blog",
+      "publish_time": "",
+      "source": "Google DeepMind Blog",
+      "category": "research",
+      "title_hash": "6efd525115169a8105f3a6b7c960b48a0c2c631439ca75a29b9d7c15586cb22b"
+    },
+    {
+      "title": "A Catalogue Of Genetic Mutations To Help Pinpoint The Cause Of Diseases",
+      "url": "https://deepmind.google/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/",
+      "summary": "A Catalogue Of Genetic Mutations To Help Pinpoint The Cause Of Diseases | 来源: Google DeepMind Blog",
+      "publish_time": "",
+      "source": "Google DeepMind Blog",
+      "category": "research",
+      "title_hash": "a6dca0d333e3f1293a7ca0253422cbe0841f18152d24903c40507108d481a703"
+    },
+    {
+      "title": "Alphaearth Foundations Helps Map Our Planet In Unprecedented Detail",
+      "url": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/",
+      "summary": "Alphaearth Foundations Helps Map Our Planet In Unprecedented Detail | 来源: Google DeepMind Blog",
+      "publish_time": "",
+      "source": "Google DeepMind Blog",
+      "category": "research",
+      "title_hash": "a7a3504230f92e064a51bb4e9952e9a33ce916debc4a92e4e2199ef8b40782c9"
+    },
+    {
+      "title": "Protecting People From Harmful Manipulation",
+      "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+      "summary": "Protecting People From Harmful Manipulation | 来源: Google DeepMind Blog",
+      "publish_time": "",
+      "source": "Google DeepMind Blog",
+      "category": "research",
+      "title_hash": "449deac8ec1c80ea454172901260bd2bdc86fcb0b60f38587e5abe3fed66d27d"
+    },
+    {
+      "title": "10 Years Of Alphago",
+      "url": "https://deepmind.google/blog/10-years-of-alphago/",
+      "summary": "10 Years Of Alphago | 来源: Google DeepMind Blog",
+      "publish_time": "",
+      "source": "Google DeepMind Blog",
+      "category": "research",
+      "title_hash": "d865784926b540216cc0be825e6c95eb4abad08ce9bbf84607000afaee447da9"
+    },
+    {
+      "title": "Identifying Interactions at Scale for LLMs",
+      "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/",
+      "summary": "--> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research aims to make the deci...",
+      "publish_time": "2026-03-13T09:00:00+00:00",
+      "source": "BAIR Blog",
+      "category": "research",
+      "title_hash": "7932213813092c6c93bf87ef562e6f5007ddddbf28c89dc28d0de420fbd70857"
+    },
+    {
+      "title": "Information-Driven Design of Imaging Systems",
+      "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/",
+      "summary": "An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how well measurements di...",
+      "publish_time": "2026-01-10T09:00:00+00:00",
+      "source": "BAIR Blog",
+      "category": "research",
+      "title_hash": "af9ba704938adb4a61a19f2f6277adfdbd8c5f2c87da2e6abc1cdf94865c3f04"
+    },
+    {
+      "title": "RL without TD learning",
+      "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/",
+      "summary": "In this post, I’ll introduce a reinforcement learning (RL) algorithm based on an “alternative” paradigm: divide and conquer . Unlike traditional methods, this algorithm is not based on temporal difference (TD) learnin...",
+      "publish_time": "2025-11-01T09:00:00+00:00",
+      "source": "BAIR Blog",
+      "category": "research",
+      "title_hash": "a57586892c90ae4e569ff8d9d571944df9fb4e1df3bc60d4d89e0ad7c1f1536b"
+    },
+    {
+      "title": "What exactly does word2vec learn?",
+      "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/",
+      "summary": "What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec is a well-known p...",
+      "publish_time": "2025-09-01T09:00:00+00:00",
+      "source": "BAIR Blog",
+      "category": "research",
+      "title_hash": "8bccf9ddac4407d7799b8cb4ea7678cc33152bd15b4ac45de1ab61a9127b18ee"
+    },
+    {
+      "title": "Whole-Body Conditioned Egocentric Video Prediction",
+      "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/",
+      "summary": ".modal { display: none; position: fixed; z-index: 9999; padding-top: 50px; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.9); } .modal-content { margin: auto; display: block...",
+      "publish_time": "2025-07-01T09:00:00+00:00",
+      "source": "BAIR Blog",
+      "category": "research",
+      "title_hash": "58a524e9827a4e351d38e71adfb03a022816c21bda5adcccf1c5f114ba646c1e"
+    },
+    {
+      "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
+      "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/",
+      "summary": "Recent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the #1 threat by OWAS...",
+      "publish_time": "2025-04-11T10:00:00+00:00",
+      "source": "BAIR Blog",
+      "category": "research",
+      "title_hash": "fd3fd8fa224098158790fa8d2f6f2147136d10ef9cef993440f847f76a26cc84"
+    },
+    {
+      "title": "Preview tool helps makers visualize 3D-printed objects",
+      "url": "https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401",
+      "summary": "By quickly generating aesthetically accurate previews of fabricated objects, the VisiPrint system could make prototyping faster and less wasteful.",
+      "publish_time": "2026-04-01T04:00:00+00:00",
+      "source": "MIT AI News",
+      "category": "research",
+      "title_hash": "296977cf28fb169ce5322109b58802fe61f7c7e1a69c22ef7dfaacde4bc19d2e"
+    },
+    {
+      "title": "MIT researchers use AI to uncover atomic defects in materials",
+      "url": "https://news.mit.edu/2026/mit-researchers-use-ai-uncover-atomic-defects-materials-0330",
+      "summary": "A new model measures defects that can be leveraged to improve materials’ mechanical strength, heat transfer, and energy-conversion efficiency.",
+      "publish_time": "2026-03-30T15:00:00+00:00",
+      "source": "MIT AI News",
+      "category": "research",
+      "title_hash": "9c3cd962f0502f86b3918a0d34cc4d3ee639906e5783284704c0103036b7f5b5"
+    },
+    {
+      "title": "Seeing sounds",
+      "url": "https://news.mit.edu/2026/seeing-sounds-mariano-salcedo-0326",
+      "summary": "Mariano Salcedo ’25, a master’s student in the new Music Technology and Computation Graduate Program, is designing an AI to visualize and express music and other sounds.",
+      "publish_time": "2026-03-26T20:45:00+00:00",
+      "source": "MIT AI News",
+      "category": "research",
+      "title_hash": "b874ee2c722afd91cd522459546029211671b500d149941d9a5685444714c626"
+    },
+    {
+      "title": "MIT engineers design proteins by their motion, not just their shape",
+      "url": "https://news.mit.edu/2026/mit-engineers-design-proteins-by-motion-not-just-shape-0326",
+      "summary": "An AI model generates novel proteins based on how they vibrate and move, opening new possibilities for dynamic biomaterials and adaptive therapeutics.",
+      "publish_time": "2026-03-26T20:20:00+00:00",
+      "source": "MIT AI News",
+      "category": "research",
+      "title_hash": "dc93619eeff93d71a70ff56a34f323d47105b618573db7c3320b70113cfafb54"
+    },
+    {
+      "title": "AI system learns to keep warehouse robot traffic running smoothly",
+      "url": "https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326",
+      "summary": "This new approach adapts to decide which robots should get the right of way at every moment, avoiding congestion and increasing throughput.",
+      "publish_time": "2026-03-26T04:00:00+00:00",
+      "source": "MIT AI News",
+      "category": "research",
+      "title_hash": "6ea018a4d177932104efe6cf9b9b324c7ff28d5ddd118e6607fa496b223d4f06"
+    },
+    {
+      "title": "Augmenting citizen science with computer vision for fish monitoring",
+      "url": "https://news.mit.edu/2026/augmenting-citizen-science-computer-vision-fish-monitoring-0325",
+      "summary": "MIT Sea Grant works with the Woodwell Climate Research Center and other collaborators to demonstrate a deep learning-based system for fish monitoring.",
+      "publish_time": "2026-03-25T21:00:00+00:00",
+      "source": "MIT AI News",
+      "category": "research",
+      "title_hash": "60cd53e2553fd38afc1389e7f7a9497d06d869e5af89d6b5487fa050693bbc56"
+    },
+    {
+      "title": "Holo3: Breaking the Computer Use Frontier",
+      "url": "https://huggingface.co/blog/Hcompany/holo3",
+      "summary": "Holo3: Breaking the Computer Use Frontier | 来源: Hugging Face Blog",
+      "publish_time": "2026-04-01T16:36:15+00:00",
+      "source": "Hugging Face Blog",
+      "category": "technical",
+      "title_hash": "ea483e46e7d909a29cddb77c99db0b5848ab4b2b0d30077090656c555737a52d"
+    },
+    {
+      "title": "Falcon Perception",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
+      "summary": "Falcon Perception | 来源: Hugging Face Blog",
+      "publish_time": "2026-04-01T07:13:20+00:00",
+      "source": "Hugging Face Blog",
+      "category": "technical",
+      "title_hash": "27c65465f6cf41d9ab9471b63897b19bfeb4459ec1c19536fab16c5c808bb27a"
+    },
+    {
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "summary": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents | 来源: Hugging Face Blog",
+      "publish_time": "2026-03-31T15:10:41+00:00",
+      "source": "Hugging Face Blog",
+      "category": "technical",
+      "title_hash": "87ca20ae6cf9d141139a85a854b84343885af2e6eea6adbe0ae7f4d326079265"
+    },
+    {
+      "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+      "url": "https://huggingface.co/blog/trl-v1",
+      "summary": "TRL v1.0: Post-Training Library Built to Move with the Field | 来源: Hugging Face Blog",
+      "publish_time": "2026-03-31T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "technical",
+      "title_hash": "f10e3fe6d2f17a3d164ee9950f11d56a303d233e756fcffb12e775da9606e954"
+    },
+    {
+      "title": "Liberate your OpenClaw",
+      "url": "https://huggingface.co/blog/liberate-your-openclaw",
+      "summary": "Liberate your OpenClaw | 来源: Hugging Face Blog",
+      "publish_time": "2026-03-27T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "technical",
+      "title_hash": "57b25959587529ca917145e5e4604182dace5d295359d31f829b865e5d859fab"
+    },
+    {
+      "title": "A New Framework for Evaluating Voice Agents (EVA)",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+      "summary": "A New Framework for Evaluating Voice Agents (EVA) | 来源: Hugging Face Blog",
+      "publish_time": "2026-03-24T02:01:52+00:00",
+      "source": "Hugging Face Blog",
+      "category": "technical",
+      "title_hash": "b2c7a50df1637bbb16a879ac30c9e54c6969ac536c3076659ba14978c7440b17"
+    },
+    {
+      "title": "Build Better AI Agents with Google Antigravity Skills and Workflows",
+      "url": "https://www.kdnuggets.com/build-better-ai-agents-with-google-antigravity-skills-and-workflows",
+      "summary": "How to configure Antigravity AI agent workflows to resiliently automate critical code generation tasks: all without the need for third-party tools.",
+      "publish_time": "2026-04-01T15:00:46+00:00",
+      "source": "KDnuggets",
+      "category": "technical",
+      "title_hash": "a0553a1f2dc6d8d706b7182ecf9c449ef2ab3e2489592430c1921ac6f9f6f442"
+    },
+    {
+      "title": "7 Essential AI Website Builders: From Prompt to Production",
+      "url": "https://www.kdnuggets.com/7-essential-ai-website-builders-from-prompt-to-production",
+      "summary": "I reviewed dozens of AI website builders and found 7 that are worth testing.",
+      "publish_time": "2026-04-01T12:49:41+00:00",
+      "source": "KDnuggets",
+      "category": "technical",
+      "title_hash": "a50f04487e90a20371eee1f4b4ed3a860fb30035c7bae81b603ccb777147eeff"
+    },
+    {
+      "title": "The Value of a Relationship with a Cybersecurity Professional (Sponsored)",
+      "url": "https://bit.ly/Ingram-topic-23-kdn-website#new_tab",
+      "summary": "gnoring the foundation of your digital business is the fastest way to turn a profitable quarter into a devastating loss.",
+      "publish_time": "2026-03-31T15:46:39+00:00",
+      "source": "KDnuggets",
+      "category": "technical",
+      "title_hash": "1f9aef6edb1b218e4c8711fb475d5d82bf1b0316f95bbf0adafe7c1e75679b9a"
+    },
+    {
+      "title": "Zero Budget, Full Stack: Building with Only Free LLMs",
+      "url": "https://www.kdnuggets.com/zero-budget-full-stack-building-with-only-free-llms",
+      "summary": "Build a full-stack AI meeting summarizer with React, FastAPI, and free LLMs. Zero budget, complete code included",
+      "publish_time": "2026-03-31T12:00:35+00:00",
+      "source": "KDnuggets",
+      "category": "technical",
+      "title_hash": "149f5c1f8a26896bef6c6fbdcd46c0c817b09ba8a12bdd21e6253dd9e9d2314b"
+    },
+    {
+      "title": "5 Useful Python Scripts for Effective Feature Selection",
+      "url": "https://www.kdnuggets.com/5-useful-python-scripts-for-effective-feature-selection",
+      "summary": "Learn five simple Python scripts to perform effective feature selection. Each one is practical, minimal, and easy to use in real projects.",
+      "publish_time": "2026-03-30T12:00:19+00:00",
+      "source": "KDnuggets",
+      "category": "technical",
+      "title_hash": "e8ad47047fbb70d6b897bb7ab8d80757e9b005e9a23f118892a54f37ded26043"
+    },
+    {
+      "title": "7 Free Web APIs Every Developer and Vibe Coder Should Know",
+      "url": "https://www.kdnuggets.com/7-free-web-apis-every-developer-and-vibe-coder-should-know",
+      "summary": "Learn which tools help AI agents search, scrape, crawl, map websites, answer questions, and research the web faster.",
+      "publish_time": "2026-03-27T12:00:22+00:00",
+      "source": "KDnuggets",
+      "category": "technical",
+      "title_hash": "0329dacd1b223ed3f2f7e69a2e7aa392407ba78703625b7fd02ad3067cfe57f8"
+    },
+    {
+      "title": "Z.ai Launches GLM-5V-Turbo: A Native Multimodal Vision Coding Model Optimized for OpenClaw and High-Capacity Agentic Engineering Workflows Everywhere",
+      "url": "https://www.marktechpost.com/2026/04/01/z-ai-launches-glm-5v-turbo-a-native-multimodal-vision-coding-model-optimized-for-openclaw-and-high-capacity-agentic-engineering-workflows-everywhere/",
+      "summary": "In the field of vision-language models (VLMs), the ability to bridge the gap between visual perception and logical code execution has traditionally faced a performance trade-off. Many models excel at describing an ima...",
+      "publish_time": "2026-04-01T23:04:22+00:00",
+      "source": "MarkTechPost",
+      "category": "technical",
+      "title_hash": "e920c98270b116109f768d59b9a85d31e34a0c11a50d3c5b8d699288086ba378"
+    },
+    {
+      "title": "How to Build a Production-Ready Gemma 3 1B Instruct Generation AI Pipeline with Hugging Face Transformers, Chat Templates, and Colab Inference",
+      "url": "https://www.marktechpost.com/2026/04/01/how-to-build-a-production-ready-gemma-3-1b-instruct-generation-ai-pipeline-with-hugging-face-transformers-chat-templates-and-colab-inference/",
+      "summary": "In this tutorial, we build and run a Colab workflow for Gemma 3 1B Instruct using Hugging Face Transformers and HF Token, in a practical, reproducible, and easy-to-follow step-by-step manner. We begin by installing th...",
+      "publish_time": "2026-04-01T16:59:36+00:00",
+      "source": "MarkTechPost",
+      "category": "technical",
+      "title_hash": "e73910162d367cf510d9ab3c70d5e1241ca2827ea93d951f50965dbb1a315eb3"
+    },
+    {
+      "title": "Hugging Face Releases TRL v1.0: A Unified Post-Training Stack for SFT, Reward Modeling, DPO, and GRPO Workflows",
+      "url": "https://www.marktechpost.com/2026/04/01/hugging-face-releases-trl-v1-0-a-unified-post-training-stack-for-sft-reward-modeling-dpo-and-grpo-workflows/",
+      "summary": "Hugging Face has officially released TRL (Transformer Reinforcement Learning) v1.0, marking a pivotal transition for the library from a research-oriented repository to a stable, production-ready framework. For AI prof...",
+      "publish_time": "2026-04-01T07:04:43+00:00",
+      "source": "MarkTechPost",
+      "category": "technical",
+      "title_hash": "3e1d582a70f9561fdd08406aee31205317bbf7328ccfe320e609323db85d625f"
+    },
+    {
+      "title": "Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The Gemini API",
+      "url": "https://www.marktechpost.com/2026/03/31/google-ai-releases-veo-3-1-lite-giving-developers-low-cost-high-speed-video-generation-via-the-gemini-api/",
+      "summary": "Google has announced the release of Veo 3.1 Lite, a new model tier within its generative video portfolio designed to address the primary bottleneck for production-scale deployments: pricing. While the generative video...",
+      "publish_time": "2026-04-01T06:22:48+00:00",
+      "source": "MarkTechPost",
+      "category": "technical",
+      "title_hash": "47bc3104015ea17253156b2e5e3232986aa74edc3016174a7f2d46872a44b899"
+    },
+    {
+      "title": "Liquid AI Released LFM2.5-350M: A Compact 350M Parameter Model Trained on 28T Tokens with Scaled Reinforcement Learning",
+      "url": "https://www.marktechpost.com/2026/03/31/liquid-ai-released-lfm2-5-350m-a-compact-350m-parameter-model-trained-on-28t-tokens-with-scaled-reinforcement-learning/",
+      "summary": "In the current landscape of generative AI, the ‘scaling laws’ have generally dictated that more parameters equal more intelligence. However, Liquid AI is challenging this convention with the release of LFM2.5-350M. Th...",
+      "publish_time": "2026-04-01T05:01:59+00:00",
+      "source": "MarkTechPost",
+      "category": "technical",
+      "title_hash": "e0f51ef22b630d336887998a3577e89290b4a66b3f0afeb5517f7b6f9c4449d5"
+    },
+    {
+      "title": "How to Build and Evolve a Custom OpenAI Agent with A-Evolve Using Benchmarks, Skills, Memory, and Workspace Mutations",
+      "url": "https://www.marktechpost.com/2026/03/31/how-to-build-and-evolve-a-custom-openai-agent-with-a-evolve-using-benchmarks-skills-memory-and-workspace-mutations/",
+      "summary": "In this tutorial, we work directly with the A-Evolve framework in Colab and build a complete evolutionary agent pipeline from the ground up. We set up the repository, configure an OpenAI-powered agent, define a custom...",
+      "publish_time": "2026-03-31T18:24:44+00:00",
+      "source": "MarkTechPost",
+      "category": "technical",
+      "title_hash": "4646ba2d2053ee7ae49bf9772ebb01e073d1b8e1b08d7b0fc2940bb24bbb3619"
+    },
+    {
+      "title": "ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts",
+      "url": "https://arxiv.org/abs/2603.28902",
+      "summary": "arXiv:2603.28902v1 Announce Type: new Abstract: Charts are central to analytical reasoning, yet existing benchmarks for chart understanding focus almost exclusively on single-chart interpretation rather than comparati...",
+      "publish_time": "2026-04-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "title_hash": "930e406dc24413e999f36ebc2efd5a66544474ae94b19d6b0d110f445b51694b"
+    },
+    {
+      "title": "Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence",
+      "url": "https://arxiv.org/abs/2603.28906",
+      "summary": "arXiv:2603.28906v1 Announce Type: new Abstract: AGI has become the Holly Grail of AI with the promise of level intelligence and the major Tech companies around the world are investing unprecedented amounts of resource...",
+      "publish_time": "2026-04-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "title_hash": "3040c347ec78f6fda3af1617f1212eefa00f04aedfaef432f5da7b56afde0d49"
+    },
+    {
+      "title": "Towards Computational Social Dynamics of Semi-Autonomous AI Agents",
+      "url": "https://arxiv.org/abs/2603.28928",
+      "summary": "arXiv:2603.28928v1 Announce Type: new Abstract: We present the first comprehensive study of emergent social organization among AI agents in hierarchical multi-agent systems, documenting the spontaneous formation of la...",
+      "publish_time": "2026-04-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "title_hash": "73daba4e56e1cbf5acb2d227f29f31aed3592f117f44651eefdb6b9b50b514db"
+    },
+    {
+      "title": "Enhancing Policy Learning with World-Action Model",
+      "url": "https://arxiv.org/abs/2603.28955",
+      "summary": "arXiv:2603.28955v1 Announce Type: new Abstract: This paper presents the World-Action Model (WAM), an action-regularized world model that jointly reasons over future visual observations and the actions that drive state...",
+      "publish_time": "2026-04-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "title_hash": "570568edd758693f7d880005403e6b650016281d396a083f831d9d2e61618b55"
+    },
+    {
+      "title": "Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research",
+      "url": "https://arxiv.org/abs/2603.28986",
+      "summary": "arXiv:2603.28986v1 Announce Type: new Abstract: Current Autonomous Scientific Research (ASR) systems, despite leveraging large language models (LLMs) and agentic architectures, remain constrained by fixed workflows an...",
+      "publish_time": "2026-04-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "title_hash": "0ad82eb79aa83efca2b1c7816f33deec78e9315c68938c4d31225aa0d88a37e9"
+    },
+    {
+      "title": "Drop the Hierarchy and Roles: How Self-Organizing LLM Agents Outperform Designed Structures",
+      "url": "https://arxiv.org/abs/2603.28990",
+      "summary": "arXiv:2603.28990v1 Announce Type: new Abstract: How much autonomy can multi-agent LLM systems sustain -- and what enables it? We present a 25,000-task computational experiment spanning 8 models, 4--256 agents, and 8 c...",
+      "publish_time": "2026-04-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "title_hash": "a8aae72be2b04f6d9ac9fb2bb55bc972416d01e9e8ee6fc39f36a163a6992413"
+    },
+    {
+      "title": "VibeVoice Technical Report",
+      "url": "https://paperswithcode.com/papers/2508.19205",
+      "summary": "VibeVoice Technical Report | 来源: Papers with Code",
+      "publish_time": "",
+      "source": "Papers with Code",
+      "category": "papers",
+      "title_hash": "9cb3da66ead2639341f6fff10ea0d291121fceab292e9cb0ae61b19b76eeff17"
+    },
+    {
+      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "url": "https://paperswithcode.com/papers/2412.20138",
+      "summary": "TradingAgents: Multi-Agents LLM Financial Trading Framework | 来源: Papers with Code",
+      "publish_time": "",
+      "source": "Papers with Code",
+      "category": "papers",
+      "title_hash": "5c50e38e46846cd67a2ec4a65e1a381eeda92788930f883ef478e46c1fefc489"
+    },
+    {
+      "title": "A decoder-only foundation model for time-series forecasting",
+      "url": "https://paperswithcode.com/papers/2310.10688",
+      "summary": "A decoder-only foundation model for time-series forecasting | 来源: Papers with Code",
+      "publish_time": "",
+      "source": "Papers with Code",
+      "category": "papers",
+      "title_hash": "31a7eeb94075a0e05297d422c2bed9f02bf491c86a716ee0d88d6c0f99fe6f79"
+    },
+    {
+      "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model",
+      "url": "https://paperswithcode.com/papers/2510.14528",
+      "summary": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model | 来源: Papers with Code",
+      "publish_time": "",
+      "source": "Papers with Code",
+      "category": "papers",
+      "title_hash": "031abf1a9aa54be9355dbdb7e3348741297405be473dc7e203ac0abdaf64f6ff"
+    },
+    {
+      "title": "Very Large-Scale Multi-Agent Simulation in AgentScope",
+      "url": "https://paperswithcode.com/papers/2407.17789",
+      "summary": "Very Large-Scale Multi-Agent Simulation in AgentScope | 来源: Papers with Code",
+      "publish_time": "",
+      "source": "Papers with Code",
+      "category": "papers",
+      "title_hash": "a599accf39663513bbea65790ee2772c1d9902abf3dd320eae24524483ab7c3f"
+    },
+    {
+      "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications",
+      "url": "https://paperswithcode.com/papers/2508.16279",
+      "summary": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications | 来源: Papers with Code",
+      "publish_time": "",
+      "source": "Papers with Code",
+      "category": "papers",
+      "title_hash": "67f9db84cf77420a4ccc04c0d7dfd6292e50dffd2ff4d1174711875f6657e286"
+    }
+  ]
+}
