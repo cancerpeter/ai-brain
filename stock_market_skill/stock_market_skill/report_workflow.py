@@ -85,7 +85,7 @@ def collect_market_picks(client: PluginClient, section_config: dict[str, Any], t
             items = client.screen_long_term_stocks(criteria)
         else:
             items = client.screen_short_term_stocks(criteria)
-    except PluginClientError:
+    except (PluginClientError, Exception):
         return []
 
     filtered = [item for item in items if is_workflow_candidate(item, strategy_code)]
