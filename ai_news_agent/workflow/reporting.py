@@ -68,6 +68,7 @@ def build_daily_markdown_report(payload: dict[str, object]) -> str:
     generated_at = datetime.fromisoformat(str(payload["generated_at"])).astimezone(LOCAL_TZ)
     report_date = generated_at.strftime("%Y-%m-%d")
     articles = list(payload["articles"])
+    selection = payload.get("selection", {})
     source_counts = Counter(_decoded(article, "source") for article in articles)
     category_counts = Counter(_decoded(article, "category") for article in articles)
     theme_hits = _theme_hits(articles)
@@ -92,6 +93,13 @@ def build_daily_markdown_report(payload: dict[str, object]) -> str:
         "- 主要来源："
         + " / ".join(f"{name} {count}" for name, count in source_counts.most_common(6))
     )
+    if selection:
+        lines.append(
+            f"- 最新优先策略：近 {selection.get('recent_window_hours', 72)} 小时内容优先，"
+            f"本轮新标题 {selection.get('fresh_article_count', 0)} 条，"
+            f"其中近窗内 {selection.get('fresh_recent_count', 0)} 条，"
+            f"与上一轮重复 {selection.get('repeated_article_count', 0)} 条"
+        )
     lines.append("")
     lines.append("## 2. 当前出现的新技术与新方向")
     lines.append("")
@@ -158,4 +166,3 @@ def build_daily_markdown_report(payload: dict[str, object]) -> str:
     lines.append("")
     lines.append(f"- JSON：`{payload.get('json_output_path', '')}`")
     return "\n".join(lines)
-
