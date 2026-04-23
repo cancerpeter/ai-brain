@@ -1,0 +1,129 @@
+# 2026-04-23 多市场长短线买入推荐工作流测试
+
+## 说明
+
+- 本文档由工作流自动生成。
+- 当前任务先读取策略文档：`/Users/peter.chen/Documents/知识库搭建/stock_market_skill/workflow_strategy.md`。
+- 每个市场分成长线与短线两类推荐。
+- 长线更看重估值、资金、规模与新闻背景。
+- 短线更看重涨跌幅强度、换手率、资金动量与盘中热度。
+
+## A股长线推荐
+
+### 指标设计
+
+- 大中市值优先，避免纯小票博弈
+- PE(TTM) 为正且不过热
+- 主力净流入优先，但不过度作为硬性门槛
+- 换手率处于健康区间，允许轻度放宽以提高覆盖率
+
+### 相关新闻
+
+- 中国银河证券：预计美股的进一步上行动力仍受财报季业绩兑现影响
+- 中信证券：随着北京车展年内多款重磅新车的推出 内需有望接力出口成为26Q2汽车板块的重要催化剂
+- 中信证券：光模块设备伴随下游资本开支与高效化、国产化趋势迎来高景气
+- 中信建投：碳酸锂涨价预期叠加钠电降本 27年钠电进入平价放量时代
+
+### 推荐列表
+
+- 今日未筛出满足当前阈值的推荐标的。
+
+## A股短线推荐
+
+### 指标设计
+
+- 涨跌幅强度优先，但不过分追求极端强势
+- 换手率明显放大，允许中等活跃度进入观察
+- 主力净流入优先，不再作为唯一硬门槛
+- 更适合盘中强势跟踪，不适合中线持有
+
+### 相关新闻
+
+- 中国银河证券：预计美股的进一步上行动力仍受财报季业绩兑现影响
+- 中信证券：随着北京车展年内多款重磅新车的推出 内需有望接力出口成为26Q2汽车板块的重要催化剂
+- 中信证券：光模块设备伴随下游资本开支与高效化、国产化趋势迎来高景气
+- 中信建投：碳酸锂涨价预期叠加钠电降本 27年钠电进入平价放量时代
+
+### 推荐列表
+
+- 今日未筛出满足当前阈值的推荐标的。
+
+## 港股长线推荐
+
+### 指标设计
+
+- 优先大市值和流动性更好的龙头
+- PE(TTM) 保持在相对合理区间
+- 更关注估值与行业地位，而不是单日弹性
+- 过滤单日过热的情绪票
+
+### 相关新闻
+
+- Bearish Tesla analyst has good news for Rivian stock investors
+- Reddit (RDDT) Fell on Disappointing User Engagement Growth
+- UnitedHealth stock jumps 8% on earnings outlook beat
+- Teradyne (TER) Surged on Investors’ Favour
+
+### 推荐列表
+
+- 今日未筛出满足当前阈值的推荐标的。
+
+## 港股短线推荐
+
+### 指标设计
+
+- 优先筛选价格动量更强的活跃股
+- 换手率明显放大
+- 允许更高弹性，但不追求无限制拉升
+- 更适合快进快出
+
+### 相关新闻
+
+- Bearish Tesla analyst has good news for Rivian stock investors
+- Bitcoin and ethereum prices today, Tuesday, April 21, 2026: Prices on the rise this morning
+- Cost Issues Hurt Carvana (CVNA) in Q1
+- Axon Enterprise (AXON) Fell on Compressed Valuation Multiples Despite Strong Performance
+
+### 推荐列表
+
+- 今日未筛出满足当前阈值的推荐标的。
+
+## 美股长线推荐
+
+### 指标设计
+
+- 优先中大市值公司
+- PE(TTM) 为正且不过热
+- 更重视企业规模和估值约束
+- 避免单日过度情绪化拉升个股
+
+### 相关新闻
+
+- Elon Musk pushed back the launch of the Tesla Roadster. Again.
+- Amazon names AWS exec Prasad Kalyanaraman to S-team, promotes Dave Brown to SVP
+- Meta is tracking employee keystrokes on Google, LinkedIn, Wikipedia as part of AI training initiative
+- Step aside Tesla, BYD: Japanese carmakers deepen their hold on India's auto market with hybrids
+
+### 推荐列表
+
+- 今日未筛出满足当前阈值的推荐标的。
+
+## 美股短线推荐
+
+### 指标设计
+
+- 优先高动量个股
+- 允许更高波动，但只适合交易型策略
+- 关注当日资金与热度是否同步
+- 避免把超高波动票误当成长线标的
+
+### 相关新闻
+
+- Elon Musk pushed back the launch of the Tesla Roadster. Again.
+- Amazon names AWS exec Prasad Kalyanaraman to S-team, promotes Dave Brown to SVP
+- Meta is tracking employee keystrokes on Google, LinkedIn, Wikipedia as part of AI training initiative
+- Step aside Tesla, BYD: Japanese carmakers deepen their hold on India's auto market with hybrids
+
+### 推荐列表
+
+- 今日未筛出满足当前阈值的推荐标的。
